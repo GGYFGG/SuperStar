@@ -25,4 +25,4 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -u 13525084163 -p Guo123456 -l 244403509 #课程
+        run: python main.py -u 13525084163 -p Guo123456 -l 244403509 #课程传感器调试
